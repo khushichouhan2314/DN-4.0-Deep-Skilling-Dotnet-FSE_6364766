@@ -1,0 +1,14 @@
+C:\Users\KIIT\source\repos\E-commerce Platform Search Function\bin\Debug\net8.0\E-commerce Platform Search Function.exe
+C:\Users\KIIT\source\repos\E-commerce Platform Search Function\bin\Debug\net8.0\E-commerce Platform Search Function.deps.json
+C:\Users\KIIT\source\repos\E-commerce Platform Search Function\bin\Debug\net8.0\E-commerce Platform Search Function.runtimeconfig.json
+C:\Users\KIIT\source\repos\E-commerce Platform Search Function\bin\Debug\net8.0\E-commerce Platform Search Function.dll
+C:\Users\KIIT\source\repos\E-commerce Platform Search Function\bin\Debug\net8.0\E-commerce Platform Search Function.pdb
+C:\Users\KIIT\source\repos\E-commerce Platform Search Function\obj\Debug\net8.0\E-commerce Platform Search Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\source\repos\E-commerce Platform Search Function\obj\Debug\net8.0\E-commerce Platform Search Function.AssemblyInfoInputs.cache
+C:\Users\KIIT\source\repos\E-commerce Platform Search Function\obj\Debug\net8.0\E-commerce Platform Search Function.AssemblyInfo.cs
+C:\Users\KIIT\source\repos\E-commerce Platform Search Function\obj\Debug\net8.0\E-commerce Platform Search Function.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\source\repos\E-commerce Platform Search Function\obj\Debug\net8.0\E-commerce Platform Search Function.dll
+C:\Users\KIIT\source\repos\E-commerce Platform Search Function\obj\Debug\net8.0\refint\E-commerce Platform Search Function.dll
+C:\Users\KIIT\source\repos\E-commerce Platform Search Function\obj\Debug\net8.0\E-commerce Platform Search Function.pdb
+C:\Users\KIIT\source\repos\E-commerce Platform Search Function\obj\Debug\net8.0\E-commerce Platform Search Function.genruntimeconfig.cache
+C:\Users\KIIT\source\repos\E-commerce Platform Search Function\obj\Debug\net8.0\ref\E-commerce Platform Search Function.dll
